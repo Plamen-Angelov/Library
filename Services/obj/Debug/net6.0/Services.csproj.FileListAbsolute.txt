@@ -1,0 +1,57 @@
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\Services.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\ref\Services.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\Common.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\Common.pdb
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\Services.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\ref\Services.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\Common.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\Common.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\Plamen\Desktop\New folder\Library\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\Plamen\Desktop\New folder\Library\Services\bin\Debug\net6.0\Services.dll
+C:\Users\Plamen\Desktop\New folder\Library\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\Plamen\Desktop\New folder\Library\Services\bin\Debug\net6.0\Common.dll
+C:\Users\Plamen\Desktop\New folder\Library\Services\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Plamen\Desktop\New folder\Library\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\Plamen\Desktop\New folder\Library\Services\bin\Debug\net6.0\Common.pdb
+C:\Users\Plamen\Desktop\New folder\Library\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Plamen\Desktop\New folder\Library\Services\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Plamen\Desktop\New folder\Library\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\New folder\Library\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\New folder\Library\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\New folder\Library\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\New folder\Library\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\New folder\Library\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\Plamen\Desktop\New folder\Library\Services\obj\Debug\net6.0\Services.dll
+C:\Users\Plamen\Desktop\New folder\Library\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\Plamen\Desktop\New folder\Library\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\Plamen\Desktop\New folder\Library\Services\obj\Debug\net6.0\ref\Services.dll

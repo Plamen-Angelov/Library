@@ -1,0 +1,338 @@
+2022-03-28 23:21:03,263 [1] WARN Microsoft.EntityFrameworkCore.Model.Validation - The foreign key property 'BookReservationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-03-28 23:21:03,274 [1] WARN Microsoft.EntityFrameworkCore.Model.Validation - The foreign key property 'NotificationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-03-28 23:21:03,390 [1] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-28 23:21:03,587 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (15ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-03-28 23:21:03,637 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (43ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-03-28 23:21:03,639 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-03-28 23:21:03,640 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-03-28 23:21:03,668 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (18ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-03-28 23:21:03,679 [1] INFO Microsoft.EntityFrameworkCore.Migrations - No migrations were applied. The database is already up to date.
+2022-03-28 23:21:04,015 [7] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (99ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-28 23:21:04,055 [4] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-28 23:21:04,056 [4] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-28 23:21:04,266 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7216
+2022-03-28 23:21:04,266 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5108
+2022-03-28 23:21:04,267 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-03-28 23:21:04,267 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Dev
+2022-03-28 23:21:04,268 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\
+2022-03-28 23:22:10,633 [1] WARN Microsoft.EntityFrameworkCore.Model.Validation - The foreign key property 'BookReservationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-03-28 23:22:10,641 [1] WARN Microsoft.EntityFrameworkCore.Model.Validation - The foreign key property 'NotificationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-03-28 23:22:10,761 [1] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-28 23:22:10,901 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (13ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-03-28 23:22:10,916 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (9ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-03-28 23:22:10,919 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-03-28 23:22:10,920 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-03-28 23:22:10,931 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-03-28 23:22:10,941 [1] INFO Microsoft.EntityFrameworkCore.Migrations - No migrations were applied. The database is already up to date.
+2022-03-28 23:22:11,134 [7] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (20ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-28 23:22:11,167 [7] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-28 23:22:11,169 [7] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-28 23:22:11,298 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7216
+2022-03-28 23:22:11,298 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5108
+2022-03-28 23:22:11,299 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-03-28 23:22:11,299 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Dev
+2022-03-28 23:22:11,300 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\
+2022-03-28 23:22:20,064 [14] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-28 23:22:20,279 [14] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (24ms) [Parameters=[@__get_Item_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AuthorName], [a].[CreatedOn], [a].[DeletedOn], [a].[IsDeleted], [a].[ModifiedOn]
+FROM [Authors] AS [a]
+WHERE [a].[Id] = @__get_Item_0
+2022-03-28 23:22:20,284 [14] ERROR Services.Services.AuthorService - Service didn't receive an author with id 4c04e0cd-5815-40fd-9830-6a45df9fb895
+2022-03-29 10:11:59,144 [1] WARN Microsoft.EntityFrameworkCore.Model.Validation - The foreign key property 'BookReservationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-03-29 10:11:59,153 [1] WARN Microsoft.EntityFrameworkCore.Model.Validation - The foreign key property 'NotificationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-03-29 10:11:59,266 [1] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-29 10:11:59,587 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (13ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-03-29 10:11:59,638 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (44ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-03-29 10:11:59,642 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-03-29 10:11:59,643 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-03-29 10:11:59,675 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (24ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-03-29 10:11:59,686 [1] INFO Microsoft.EntityFrameworkCore.Migrations - No migrations were applied. The database is already up to date.
+2022-03-29 10:11:59,942 [7] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (69ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 10:11:59,977 [7] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 10:11:59,978 [4] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 10:12:00,246 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7216
+2022-03-29 10:12:00,246 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5108
+2022-03-29 10:12:00,248 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-03-29 10:12:00,248 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Dev
+2022-03-29 10:12:00,248 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\
+2022-03-29 10:12:13,235 [1] WARN Microsoft.EntityFrameworkCore.Model.Validation - The foreign key property 'BookReservationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-03-29 10:12:13,243 [1] WARN Microsoft.EntityFrameworkCore.Model.Validation - The foreign key property 'NotificationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-03-29 10:12:13,355 [1] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-29 10:12:13,476 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (12ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-03-29 10:12:13,491 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (9ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-03-29 10:12:13,493 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-03-29 10:12:13,494 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-03-29 10:12:13,503 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-03-29 10:12:13,513 [1] INFO Microsoft.EntityFrameworkCore.Migrations - No migrations were applied. The database is already up to date.
+2022-03-29 10:12:13,697 [4] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (19ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 10:12:13,731 [11] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 10:12:13,733 [11] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 10:12:13,855 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7216
+2022-03-29 10:12:13,855 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5108
+2022-03-29 10:12:13,856 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-03-29 10:12:13,856 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Dev
+2022-03-29 10:12:13,857 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\
+2022-03-29 10:12:24,509 [1] WARN Microsoft.EntityFrameworkCore.Model.Validation - The foreign key property 'BookReservationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-03-29 10:12:24,517 [1] WARN Microsoft.EntityFrameworkCore.Model.Validation - The foreign key property 'NotificationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-03-29 10:12:24,626 [1] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-29 10:12:24,744 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (12ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-03-29 10:12:24,759 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (9ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-03-29 10:12:24,762 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-03-29 10:12:24,764 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-03-29 10:12:24,772 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-03-29 10:12:24,782 [1] INFO Microsoft.EntityFrameworkCore.Migrations - No migrations were applied. The database is already up to date.
+2022-03-29 10:12:24,971 [7] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (19ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 10:12:25,004 [11] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 10:12:25,005 [15] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 10:12:25,136 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7216
+2022-03-29 10:12:25,136 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5108
+2022-03-29 10:12:25,138 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-03-29 10:12:25,138 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Dev
+2022-03-29 10:12:25,138 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\
+2022-03-29 10:14:49,477 [1] WARN Microsoft.EntityFrameworkCore.Model.Validation - The foreign key property 'BookReservationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-03-29 10:14:49,488 [1] WARN Microsoft.EntityFrameworkCore.Model.Validation - The foreign key property 'NotificationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-03-29 10:14:49,595 [1] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-29 10:14:49,729 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (14ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-03-29 10:14:49,751 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (12ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-03-29 10:14:49,754 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-03-29 10:14:49,755 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-03-29 10:14:49,763 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-03-29 10:14:49,772 [1] INFO Microsoft.EntityFrameworkCore.Migrations - No migrations were applied. The database is already up to date.
+2022-03-29 10:14:49,987 [4] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (22ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 10:14:50,026 [4] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (4ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 10:14:50,027 [4] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 10:14:50,158 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7216
+2022-03-29 10:14:50,158 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5108
+2022-03-29 10:14:50,159 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-03-29 10:14:50,159 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Dev
+2022-03-29 10:14:50,159 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\
+2022-03-29 10:16:08,337 [26] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-29 10:16:08,337 [23] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-29 10:16:08,337 [27] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-29 10:16:08,351 [22] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-29 10:16:08,493 [23] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (27ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Users] AS [u]
+2022-03-29 10:16:08,550 [23] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (72ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Books] AS [b]
+2022-03-29 10:16:08,566 [23] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (78ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM (
+    SELECT DISTINCT [g].[GenreEntityId]
+    FROM [GenresBooks] AS [g]
+) AS [t]
+2022-03-29 10:16:08,609 [22] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (39ms) [Parameters=[@__fourteenDaysEarlier_0='?' (DbType = DateTime2), @__p_1='?' (DbType = Int32), @__p_2='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [b].[Id], [b].[BorrowedTime], [b].[CreatedOn], [b].[CurrentQuantity], [b].[DeletedOn], [b].[Description], [b].[ImageAddress], [b].[IsAvailable], [b].[IsDeleted], [b].[ModifiedOn], [b].[Sku], [b].[Title], [b].[TotalQuantity]
+FROM [Books] AS [b]
+WHERE [b].[CreatedOn] >= @__fourteenDaysEarlier_0
+ORDER BY [b].[CreatedOn] DESC
+OFFSET @__p_1 ROWS FETCH NEXT @__p_2 ROWS ONLY
+2022-03-29 10:16:08,680 [22] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (4ms) [Parameters=[@__fourteenDaysEarlier_0='?' (DbType = DateTime2)], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Books] AS [b]
+WHERE [b].[CreatedOn] >= @__fourteenDaysEarlier_0
+2022-03-29 10:16:08,722 [22] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (26ms) [Parameters=[@__bookId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [a].[AuthorEntityId]
+FROM [AuthorsBooks] AS [a]
+WHERE [a].[BookEntityId] = @__bookId_0
+2022-03-29 10:16:08,753 [22] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (15ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AuthorName], [a].[CreatedOn], [a].[DeletedOn], [a].[IsDeleted], [a].[ModifiedOn]
+FROM [Authors] AS [a]
+WHERE [a].[Id] = @__id_0
+2022-03-29 10:16:08,781 [22] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__bookId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [a].[AuthorEntityId]
+FROM [AuthorsBooks] AS [a]
+WHERE [a].[BookEntityId] = @__bookId_0
+2022-03-29 10:16:08,784 [22] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AuthorName], [a].[CreatedOn], [a].[DeletedOn], [a].[IsDeleted], [a].[ModifiedOn]
+FROM [Authors] AS [a]
+WHERE [a].[Id] = @__id_0
+2022-03-29 10:16:08,786 [22] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[@__bookId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [a].[AuthorEntityId]
+FROM [AuthorsBooks] AS [a]
+WHERE [a].[BookEntityId] = @__bookId_0
+2022-03-29 10:16:08,787 [22] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AuthorName], [a].[CreatedOn], [a].[DeletedOn], [a].[IsDeleted], [a].[ModifiedOn]
+FROM [Authors] AS [a]
+WHERE [a].[Id] = @__id_0
+2022-03-29 10:16:08,788 [22] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[@__bookId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT [a].[AuthorEntityId]
+FROM [AuthorsBooks] AS [a]
+WHERE [a].[BookEntityId] = @__bookId_0
+2022-03-29 10:16:08,790 [22] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AuthorName], [a].[CreatedOn], [a].[DeletedOn], [a].[IsDeleted], [a].[ModifiedOn]
+FROM [Authors] AS [a]
+WHERE [a].[Id] = @__id_0
+2022-03-29 10:16:15,520 [23] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-29 10:16:15,536 [23] WARN Microsoft.EntityFrameworkCore.Query - The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2022-03-29 10:16:15,537 [23] WARN Microsoft.EntityFrameworkCore.Query - The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2022-03-29 10:16:15,552 [27] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (4ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [a].[Id], [a].[AuthorName], [a].[CreatedOn], [a].[DeletedOn], [a].[IsDeleted], [a].[ModifiedOn]
+FROM [Authors] AS [a]
+ORDER BY (SELECT 1)
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+2022-03-29 10:16:15,595 [27] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Authors] AS [a]
+2022-03-29 10:16:19,977 [31] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-29 10:16:20,026 [31] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (2ms) [Parameters=[@__get_Item_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AuthorName], [a].[CreatedOn], [a].[DeletedOn], [a].[IsDeleted], [a].[ModifiedOn]
+FROM [Authors] AS [a]
+WHERE [a].[Id] = @__get_Item_0
+2022-03-29 10:16:23,028 [21] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-29 10:16:23,033 [21] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (2ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [a].[Id], [a].[AuthorName], [a].[CreatedOn], [a].[DeletedOn], [a].[IsDeleted], [a].[ModifiedOn]
+FROM [Authors] AS [a]
+ORDER BY (SELECT 1)
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+2022-03-29 10:16:23,035 [21] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Authors] AS [a]
+2022-03-29 10:16:28,281 [28] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-29 10:16:28,304 [28] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (2ms) [Parameters=[@__author_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AuthorName], [a].[CreatedOn], [a].[DeletedOn], [a].[IsDeleted], [a].[ModifiedOn]
+FROM [Authors] AS [a]
+WHERE [a].[AuthorName] = @__author_0
+2022-03-29 10:16:28,305 [28] ERROR Services.Services.AuthorService - Service throws exception: Author already exists
+2022-03-29 10:16:28,308 [28] ERROR API.Controllers.AuthorsController - Author already exists
+2022-03-29 10:16:36,983 [23] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-29 10:16:36,987 [23] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__author_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AuthorName], [a].[CreatedOn], [a].[DeletedOn], [a].[IsDeleted], [a].[ModifiedOn]
+FROM [Authors] AS [a]
+WHERE [a].[AuthorName] = @__author_0
+2022-03-29 10:16:36,987 [23] ERROR Services.Services.AuthorService - Service throws exception: Author already exists
+2022-03-29 10:16:36,988 [23] ERROR API.Controllers.AuthorsController - Author already exists
+2022-03-29 11:01:43,478 [1] WARN Microsoft.EntityFrameworkCore.Model.Validation - The foreign key property 'BookReservationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-03-29 11:01:43,487 [1] WARN Microsoft.EntityFrameworkCore.Model.Validation - The foreign key property 'NotificationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-03-29 11:01:43,621 [1] INFO Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None
+2022-03-29 11:01:43,753 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (15ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-03-29 11:01:43,770 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (10ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-03-29 11:01:43,773 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-03-29 11:01:43,774 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-03-29 11:01:43,783 [1] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-03-29 11:01:43,793 [1] INFO Microsoft.EntityFrameworkCore.Migrations - No migrations were applied. The database is already up to date.
+2022-03-29 11:01:43,979 [7] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (19ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 11:01:44,016 [11] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 11:01:44,017 [11] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[ConcurrencyStamp], [r].[Name], [r].[NormalizedName]
+FROM [Roles] AS [r]
+WHERE [r].[NormalizedName] = @__normalizedName_0
+2022-03-29 11:01:44,137 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7216
+2022-03-29 11:01:44,137 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5108
+2022-03-29 11:01:44,138 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-03-29 11:01:44,138 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Dev
+2022-03-29 11:01:44,139 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\
+2022-03-29 11:02:50,455 [16] ERROR Services.Services.AuthorService - Service didn't receive an author with id c040b1c1-41d2-4ad2-aeeb-edba62e4d452
+2022-03-29 11:37:32,919 [28] ERROR Services.Services.AuthorService - Service didn't receive an author with id c040b1c1-41d2-4ad2-aeeb-edba62e4d452
+2022-03-29 12:14:17,070 [15] ERROR Services.Services.AuthorService - Service throws exception: Author not found
+2022-03-29 12:17:44,917 [25] ERROR Services.Services.AuthorService - Service throws exception: Author not found

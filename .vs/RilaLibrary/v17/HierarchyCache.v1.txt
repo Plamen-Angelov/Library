@@ -1,0 +1,1101 @@
+﻿++Solution 'RilaLibrary' ‎(6 of 6 projects)
+i:{00000000-0000-0000-0000-000000000000}:RilaLibrary.sln
+++DataAccess
+i:{00000000-0000-0000-0000-000000000000}:DataAccess
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\bin\debug\net6.0\dataaccess.dll
+++Dependencies
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:>575
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:>574
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:>1255
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:>975
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:>976
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1427
+++Entities
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\entities\
+++Enums
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\enums\
+++Migrations
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\
+++Models
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\models\
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\
+++Seeding
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\seeding\
+++LibraryDbContext.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\librarydbcontext.cs
+++report-task.txt
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\.sonarqube\out\.sonar\report-task.txt
+++Analyzers
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:analyzers
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:analyzers
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:analyzers
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:analyzers
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:analyzers
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:analyzers
+++Frameworks
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:frameworks
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:frameworks
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:frameworks
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:frameworks
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:frameworks
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:frameworks
+++Packages
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:packages
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:packages
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:packages
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:packages
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:packages
+++Projects
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:projects
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:projects
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:projects
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:projects
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:projects
+++AddressEntity.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\entities\addressentity.cs
+++AuthorEntity.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\entities\authorentity.cs
+++AuthorsBooks.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\entities\authorsbooks.cs
+++BookEntity.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\entities\bookentity.cs
+++BookReservationEntity.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\entities\bookreservationentity.cs
+++CommentEntity.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\entities\commententity.cs
+++GenreEntity.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\entities\genreentity.cs
+++GenresBooks.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\entities\genresbooks.cs
+++NotificationEntity.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\entities\notificationentity.cs
+++ProlongingRequestEntity.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\entities\prolongingrequestentity.cs
+++UserEntity.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\entities\userentity.cs
+++Rating.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\enums\rating.cs
+++Role.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\enums\role.cs
+++20220214093837_ChangeIdsToGuids.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220214093837_changeidstoguids.cs
+++20220215123920_RefactorUserEntities.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220215123920_refactoruserentities.cs
+++20220216123344_CorrectedNameOfProperty.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220216123344_correctednameofproperty.cs
+++20220217220357_MakeOptionalInfo.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220217220357_makeoptionalinfo.cs
+++20220221144017_ChangeDefaultIdentityTableNames.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220221144017_changedefaultidentitytablenames.cs
+++20220301090014_RemoveColumnAuthorLastName.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220301090014_removecolumnauthorlastname.cs
+++20220302132754_MakeBookDescriptionOptional.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220302132754_makebookdescriptionoptional.cs
+++20220302133215_MakeBookImageOptional.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220302133215_makebookimageoptional.cs
+++20220322160110_AddNewColumnInBookReservations.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220322160110_addnewcolumninbookreservations.cs
+++LibraryDbContextModelSnapshot.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\librarydbcontextmodelsnapshot.cs
+++BaseDeletableModel.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\models\basedeletablemodel.cs
+++BaseModel.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\models\basemodel.cs
+++IAuditableEntity.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\models\iauditableentity.cs
+++IDeletableEntity.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\models\ideletableentity.cs
+++ISeeder.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\seeding\iseeder.cs
+++LibraryDbContextSeeder.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\seeding\librarydbcontextseeder.cs
+++RolesSeeder.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\seeding\rolesseeder.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\microsoft.netcore.app
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\microsoft.netcore.app
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\microsoft.netcore.app
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\microsoft.netcore.app
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\microsoft.netcore.app
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\microsoft.netcore.app
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.2)
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:>1442
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1532
+++Microsoft.EntityFrameworkCore (6.0.2)
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:>1439
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1523
+++Microsoft.EntityFrameworkCore.Design (6.0.2)
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:>1441
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1525
+++Microsoft.EntityFrameworkCore.InMemory (6.0.2)
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:>1443
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:>1440
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1524
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:>1444
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1536
+++Common
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\bin\debug\net6.0\common.dll
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\bin\debug\net6.0\common.dll
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\bin\debug\net6.0\common.dll
+i:{00000000-0000-0000-0000-000000000000}:Common
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\bin\debug\net6.0\common.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\bin\debug\net6.0\common.dll
+++20220214093837_ChangeIdsToGuids.Designer.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220214093837_changeidstoguids.designer.cs
+++20220215123920_RefactorUserEntities.Designer.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220215123920_refactoruserentities.designer.cs
+++20220216123344_CorrectedNameOfProperty.Designer.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220216123344_correctednameofproperty.designer.cs
+++20220217220357_MakeOptionalInfo.Designer.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220217220357_makeoptionalinfo.designer.cs
+++20220221144017_ChangeDefaultIdentityTableNames.Designer.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220221144017_changedefaultidentitytablenames.designer.cs
+++20220301090014_RemoveColumnAuthorLastName.Designer.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220301090014_removecolumnauthorlastname.designer.cs
+++20220302132754_MakeBookDescriptionOptional.Designer.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220302132754_makebookdescriptionoptional.designer.cs
+++20220302133215_MakeBookImageOptional.Designer.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220302133215_makebookimageoptional.designer.cs
+++20220322160110_AddNewColumnInBookReservations.Designer.cs
+i:{2ed84d44-47a7-4ae0-a3a5-c2b3db4921b8}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\dataaccess\migrations\20220322160110_addnewcolumninbookreservations.designer.cs
+++Services
+i:{00000000-0000-0000-0000-000000000000}:Services
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\services\
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\bin\debug\net6.0\services.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\bin\debug\net6.0\services.dll
+++EmailSender
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\emailsender\
+++Interfaces
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\interfaces\
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\interfaces\
+++EmailSender.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\emailsender\emailsender.cs
+++EmailSenderOptions.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\emailsender\emailsenderoptions.cs
+++IMailSender.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\emailsender\imailsender.cs
+++IAuthorService.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\interfaces\iauthorservice.cs
+++IBlobService.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\interfaces\iblobservice.cs
+++IBookReservationService.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\interfaces\ibookreservationservice.cs
+++IBookService.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\interfaces\ibookservice.cs
+++IGenreService.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\interfaces\igenreservice.cs
+++IJwtAuthService.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\interfaces\ijwtauthservice.cs
+++IUserService.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\interfaces\iuserservice.cs
+++AuthorService.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\services\authorservice.cs
+++BlobService.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\services\blobservice.cs
+++BookReservationService.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\services\bookreservationservice.cs
+++BookService.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\services\bookservice.cs
+++GenreService.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\services\genreservice.cs
+++JwtAuthService.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\services\jwtauthservice.cs
+++UserService.cs
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\services\services\userservice.cs
+++Azure.Storage.Blobs (12.11.0)
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:>1511
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1533
+++log4net (2.0.14)
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:>1509
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1529
+++Microsoft.AspNetCore.Identity (2.2.0)
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:>1505
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1528
+++SendGrid (9.25.3)
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:>1507
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:>1477
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:>1469
+++Repositories
+i:{eff9504d-3470-444e-9e40-2aa2577be798}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\bin\debug\net6.0\repositories.dll
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\bin\debug\net6.0\repositories.dll
+i:{00000000-0000-0000-0000-000000000000}:Repositories
+++Tests
+i:{00000000-0000-0000-0000-000000000000}:Tests
+++ControllersTests
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\controllerstests\
+++FluentValidationTests
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\fluentvalidationtests\
+++RepositoryTests
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\repositorytests\
+++ServicesTests
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\servicestests\
+++InMemoryDbContext.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\inmemorydbcontext.cs
+++MyBookEqualityComparer.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\mybookequalitycomparer.cs
+++MyGenreEqualityComparer.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\mygenreequalitycomparer.cs
+++AuthorControllerTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\controllerstests\authorcontrollertests.cs
+++BookReservationsControllerTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\controllerstests\bookreservationscontrollertests.cs
+++BooksControllerTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\controllerstests\bookscontrollertests.cs
+++GenresControllerTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\controllerstests\genrescontrollertests.cs
+++HomeControllerTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\controllerstests\homecontrollertests.cs
+++UsersControllerTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\controllerstests\userscontrollertests.cs
+++AddBookValidatorTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\fluentvalidationtests\addbookvalidatortests.cs
+++AuthorValidatorTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\fluentvalidationtests\authorvalidatortests.cs
+++BookReservationMessageValidatorTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\fluentvalidationtests\bookreservationmessagevalidatortests.cs
+++ForgotPasswordValidatorTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\fluentvalidationtests\forgotpasswordvalidatortests.cs
+++GenreValidatorTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\fluentvalidationtests\genrevalidatortests.cs
+++LogInUserValidatorTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\fluentvalidationtests\loginuservalidatortests.cs
+++RegisterUserValidatorTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\fluentvalidationtests\registeruservalidatortests.cs
+++ResetPasswordValidatorTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\fluentvalidationtests\resetpasswordvalidatortests.cs
+++AuthorRepositoryTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\repositorytests\authorrepositorytests.cs
+++AuthorsBooksRepositoryTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\repositorytests\authorsbooksrepositorytests.cs
+++BookRepositoryTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\repositorytests\bookrepositorytests.cs
+++BookReservationRepositoryTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\repositorytests\bookreservationrepositorytests.cs
+++GenericRepositoryTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\repositorytests\genericrepositorytests.cs
+++GenreRepositoryTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\repositorytests\genrerepositorytests.cs
+++GenresBooksRepositoryTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\repositorytests\genresbooksrepositorytests.cs
+++TestRepository.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\repositorytests\testrepository.cs
+++UserRepositoryTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\repositorytests\userrepositorytests.cs
+++AuthorServiceTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\servicestests\authorservicetests.cs
+++BlobServiceTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\servicestests\blobservicetests.cs
+++BookReservationServiceTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\servicestests\bookreservationservicetests.cs
+++BookServiceTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\servicestests\bookservicetests.cs
+++EmailSenderSetupTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\servicestests\emailsendersetuptests.cs
+++GenreServiceTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\servicestests\genreservicetests.cs
+++JwtAuthServiceTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\servicestests\jwtauthservicetests.cs
+++UserServiceTests.cs
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\tests\servicestests\userservicetests.cs
+++Microsoft.AspNetCore.App.Analyzers
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++coverlet.collector (3.1.2)
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:>1482
+++Microsoft.NET.Test.Sdk (17.1.0)
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:>1474
+++Moq (4.16.1)
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:>1480
+++NUnit (3.13.2)
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:>1476
+++NUnit3TestAdapter (4.2.1)
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:>1478
+++API
+i:{8c9585a3-57a3-4622-9994-6d4fa0c5f16e}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\api.dll
+i:{00000000-0000-0000-0000-000000000000}:API
+++ExceptionMessages.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\exceptionmessages.cs
+++GlobalConstants.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\globalconstants.cs
+++InputDTOs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\
+++JWT
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\jwt\
+++OutputDtos
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\outputdtos\
+++Book.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\book.cs
+++Microsoft.AspNetCore.Http.Features (5.0.15)
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:>1468
+++AddBookDto.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\addbookdto.cs
+++Address.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\address.cs
+++AuthorDto.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\authordto.cs
+++BookReservationDto.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\bookreservationdto.cs
+++BookReservationMessageDto.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\bookreservationmessagedto.cs
+++ForgotPasswordDto.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\forgotpassworddto.cs
+++Genre.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\genre.cs
+++LoginUserDto.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\loginuserdto.cs
+++LoginUserWithRolesDto.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\loginuserwithrolesdto.cs
+++PaginatorInputDto.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\paginatorinputdto.cs
+++RegisterUserDto.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\registeruserdto.cs
+++ResetPasswordDto.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\resetpassworddto.cs
+++SearchAuthorDto.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\searchauthordto.cs
+++SearchBookDto.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\searchbookdto.cs
+++SearchGenreDto.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\inputdtos\searchgenredto.cs
+++JwtAuthResult.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\jwt\jwtauthresult.cs
+++JwtTokenConfig.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\jwt\jwttokenconfig.cs
+++AuthorOutput.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\outputdtos\authoroutput.cs
+++BookConfirmReservationOutput.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\outputdtos\bookconfirmreservationoutput.cs
+++BookOutput.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\outputdtos\bookoutput.cs
+++BookReservationOutput.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\outputdtos\bookreservationoutput.cs
+++BookReservationResult.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\outputdtos\bookreservationresult.cs
+++GenreOutput.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\outputdtos\genreoutput.cs
+++LastBooksOutput.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\outputdtos\lastbooksoutput.cs
+++LoginResult.cs
+i:{55d1dffa-c1db-4c51-91e7-28256fd4517c}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\common\models\outputdtos\loginresult.cs
+++Mappers
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\mappers\
+++AuthorRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\authorrepository.cs
+++AuthorsBooksRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\authorsbooksrepository.cs
+++BookRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\bookrepository.cs
+++BookReservationRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\bookreservationrepository.cs
+++GenericRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\genericrepository.cs
+++GenreRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\genrerepository.cs
+++GenresBooksRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\genresbooksrepository.cs
+++UserRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\userrepository.cs
+++IAuthorRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\interfaces\iauthorrepository.cs
+++IAuthorsBooksRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\interfaces\iauthorsbooksrepository.cs
+++IBookRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\interfaces\ibookrepository.cs
+++IBookReservationRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\interfaces\ibookreservationrepository.cs
+++IGenericRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\interfaces\igenericrepository.cs
+++IGenreRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\interfaces\igenrerepository.cs
+++IGenresBooksRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\interfaces\igenresbooksrepository.cs
+++IUserRepository.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\interfaces\iuserrepository.cs
+++Mapper.cs
+i:{e76a1af4-3321-4afe-8be1-f409effa8db0}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\repositories\mappers\mapper.cs
+++Connected Services 
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1428
+++Microsoft identity platform
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1699
+++Secrets.json (Local)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1542
+++SQL Server Express LocalDB (Local) (ConnectionStrings:DefaultConnection)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1543
+++Storage (AzureBlobStorageConnectionString)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1697
+++Imports
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1544
+++Sdk.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++Properties
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\properties\
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\properties\
+++bin
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\
+++Controllers
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\controllers\
+++obj
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\
+++Validation
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\validation\
+++appsettings.json
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\appsettings.json
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\appsettings.json
+++log4net.config
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\log4net.config
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\log4net.config
+++Program.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\program.cs
+++Microsoft identity platform dependency is detected
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1700
+++Storage dependency with connectionId 'AzureBlobStorageConnectionString' is detected
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1698
+++Microsoft.AspNetCore.Analyzers
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\microsoft.aspnetcore.app
+++FluentValidation (10.3.6)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1530
+++FluentValidation.AspNetCore (10.3.6)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1527
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.2)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1535
+++Microsoft.AspNetCore.Identity.UI (6.0.2)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1537
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (6.0.2)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1531
+++Microsoft.Extensions.DependencyInjection (6.0.0)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1534
+++Microsoft.Extensions.Options (6.0.0)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1538
+++SendGrid.Extensions.DependencyInjection (1.0.1)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1522
+++Swashbuckle.AspNetCore (6.2.3)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:>1526
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++launchSettings.json
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\properties\launchsettings.json
+++serviceDependencies.json
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\properties\servicedependencies.json
+++serviceDependencies.local.json.user
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\properties\servicedependencies.local.json.user
+++Debug
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\
+++AuthorsController.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\controllers\authorscontroller.cs
+++BlobsController.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\controllers\blobscontroller.cs
+++BookReservationsController.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\controllers\bookreservationscontroller.cs
+++BooksController.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\controllers\bookscontroller.cs
+++GenresController.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\controllers\genrescontroller.cs
+++HomeController.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\controllers\homecontroller.cs
+++UsersController.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\controllers\userscontroller.cs
+++API.csproj.nuget.dgspec.json
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\api.csproj.nuget.dgspec.json
+++API.csproj.nuget.g.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\api.csproj.nuget.g.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\api.csproj.nuget.g.props
+++API.csproj.nuget.g.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\api.csproj.nuget.g.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\api.csproj.nuget.g.targets
+++project.assets.json
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\project.assets.json
+++project.nuget.cache
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\staticwebassets.pack.sentinel
+++AddBookValidator.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\validation\addbookvalidator.cs
+++AddressValidator.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\validation\addressvalidator.cs
+++AuthorValidator.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\validation\authorvalidator.cs
+++BookReservationMessageValidator.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\validation\bookreservationmessagevalidator.cs
+++ForgotPasswordValidator.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\validation\forgotpasswordvalidator.cs
+++GenreValidator.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\validation\genrevalidator.cs
+++LoginUserValidator.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\validation\loginuservalidator.cs
+++PaginatorValidator.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\validation\paginatorvalidator.cs
+++RegisterUserValidator.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\validation\registeruservalidator.cs
+++ResetPasswordValidator.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\validation\resetpasswordvalidator.cs
+++appsettings.Dev.json
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\appsettings.dev.json
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\appsettings.dev.json
+++Microsoft.Common.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++serviceDependencies.local.json
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\properties\servicedependencies.local.json
+++net6.0
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\
+++Microsoft.NuGet.ImportBefore.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++ref
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\ref\
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\ref\
+++runtimes
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\
+++API.deps.json
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\api.deps.json
+++API.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\api.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\ref\api.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\ref\api.dll
+++API.exe
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\api.exe
+++API.pdb
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\api.pdb
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.pdb
+++API.runtimeconfig.json
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\api.runtimeconfig.json
+++API.staticwebassets.runtime.json
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\api.staticwebassets.runtime.json
+++Azure.Core.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\azure.core.dll
+++Azure.Storage.Blobs.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\azure.storage.blobs.dll
+++Azure.Storage.Common.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\azure.storage.common.dll
+++Common.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\common.dll
+++Common.pdb
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\common.pdb
+++DataAccess.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\dataaccess.dll
+++DataAccess.pdb
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\dataaccess.pdb
+++FluentValidation.AspNetCore.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\fluentvalidation.aspnetcore.dll
+++FluentValidation.DependencyInjectionExtensions.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\fluentvalidation.dependencyinjectionextensions.dll
+++FluentValidation.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\fluentvalidation.dll
+++Humanizer.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\humanizer.dll
+++log4net.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\log4net.dll
+++log4netInfo.log
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\log4netinfo.log
+++Microsoft.AspNetCore.Authentication.JwtBearer.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.aspnetcore.authentication.jwtbearer.dll
+++Microsoft.AspNetCore.Cryptography.Internal.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.aspnetcore.cryptography.internal.dll
+++Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.aspnetcore.cryptography.keyderivation.dll
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.aspnetcore.identity.entityframeworkcore.dll
+++Microsoft.AspNetCore.Identity.UI.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.aspnetcore.identity.ui.dll
+++Microsoft.AspNetCore.JsonPatch.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.aspnetcore.jsonpatch.dll
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.aspnetcore.mvc.newtonsoftjson.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.Data.SqlClient.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.data.sqlclient.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.InMemory.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.entityframeworkcore.inmemory.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.extensions.caching.memory.dll
+++Microsoft.Extensions.FileProviders.Embedded.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.extensions.fileproviders.embedded.dll
+++Microsoft.Extensions.Identity.Core.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.extensions.identity.core.dll
+++Microsoft.Extensions.Identity.Stores.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.extensions.identity.stores.dll
+++Microsoft.Identity.Client.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.OpenApi.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.openapi.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\microsoft.win32.systemevents.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\microsoft.win32.systemevents.dll
+++myapp.log
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\myapp.log
+++Newtonsoft.Json.Bson.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\newtonsoft.json.bson.dll
+++Newtonsoft.Json.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\newtonsoft.json.dll
+++Properties - Shortcut.lnk
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\properties - shortcut.lnk
+++Repositories.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\repositories.dll
+++Repositories.pdb
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\repositories.pdb
+++SendGrid.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\sendgrid.dll
+++SendGrid.Extensions.DependencyInjection.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\sendgrid.extensions.dependencyinjection.dll
+++Services.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\services.dll
+++Services.pdb
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\services.pdb
+++StarkbankEcdsa.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\starkbankecdsa.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\swashbuckle.aspnetcore.swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\swashbuckle.aspnetcore.swaggergen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\swashbuckle.aspnetcore.swaggerui.dll
+++System.Configuration.ConfigurationManager.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Drawing.Common.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\system.drawing.common.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\system.drawing.common.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.IO.Hashing.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\system.io.hashing.dll
+++System.Memory.Data.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\system.memory.data.dll
+++System.Runtime.Caching.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\system.runtime.caching.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\system.windows.extensions.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.windows.extensions.dll
+++staticwebassets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++API.AssemblyInfo.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.assemblyinfo.cs
+++API.AssemblyInfoInputs.cache
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.assemblyinfoinputs.cache
+++API.assets.cache
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.assets.cache
+++API.csproj.AssemblyReference.cache
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.csproj.assemblyreference.cache
+++API.csproj.BuildWithSkipAnalyzers
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.csproj.buildwithskipanalyzers
+++API.csproj.CopyComplete
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.csproj.copycomplete
+++API.csproj.CoreCompileInputs.cache
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.csproj.corecompileinputs.cache
+++API.csproj.FileListAbsolute.txt
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.csproj.filelistabsolute.txt
+++API.GeneratedMSBuildEditorConfig.editorconfig
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.generatedmsbuildeditorconfig.editorconfig
+++API.genruntimeconfig.cache
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.genruntimeconfig.cache
+++API.GlobalUsings.g.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.globalusings.g.cs
+++API.MvcApplicationPartsAssemblyInfo.cache
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.mvcapplicationpartsassemblyinfo.cache
+++API.MvcApplicationPartsAssemblyInfo.cs
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\api.mvcapplicationpartsassemblyinfo.cs
+++apphost.exe
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\apphost.exe
+++staticwebassets.build.json
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\staticwebassets.build.json
+++staticwebassets.development.json
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\obj\debug\net6.0\staticwebassets.development.json
+++Microsoft.Extensions.ApiDescription.Server.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.props
+++Swashbuckle.AspNetCore.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\.nuget\packages\swashbuckle.aspnetcore\6.2.3\build\swashbuckle.aspnetcore.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\.nuget\packages\microsoft.entityframeworkcore.design\6.0.2\build\net6.0\microsoft.entityframeworkcore.design.props
+++Microsoft.AspNetCore.Identity.UI.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.2\build\microsoft.aspnetcore.identity.ui.props
+++Microsoft.NuGet.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++unix
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\unix\
+++win
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win-x86\
+++Microsoft.NET.ILLink.Tasks.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++lib
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\unix\lib\
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win\lib\
+++native
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win-arm\native\
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win-x64\native\
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win-x86\native\
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++SonarQube.Integration.ImportBefore.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\appdata\local\microsoft\msbuild\current\microsoft.common.targets\importbefore\sonarqube.integration.importbefore.targets
+++API.csproj.user
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\api.csproj.user
+++Microsoft.NET.props
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.targets
+++Microsoft.AspNetCore.Identity.UI.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.2\buildtransitive\microsoft.aspnetcore.identity.ui.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.2\build\microsoft.aspnetcore.identity.ui.targets
+++netcoreapp3.0
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\source\repos\rilalibrary\my-library-api\rilalibrary\api\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++Microsoft.Docker.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++Microsoft.Web.IISSupport.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++Microsoft.AspNetCore.StaticWebAssets.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.2\build\microsoft.aspnetcore.staticwebassets.targets
+++Microsoft.AspNetCore.StaticWebAssets.V5.targets
+i:{ebb15efe-97a6-4372-a5ac-9522bacf76dd}:c:\users\plamen\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.2\build\microsoft.aspnetcore.staticwebassets.v5.targets

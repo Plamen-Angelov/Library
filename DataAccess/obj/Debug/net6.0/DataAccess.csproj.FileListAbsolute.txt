@@ -1,0 +1,51 @@
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\bin\Debug\net6.0\Common.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\bin\Debug\net6.0\Common.pdb
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\bin\Debug\net6.0\Common.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\bin\Debug\net6.0\Common.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\bin\Debug\net6.0\Common.dll
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\bin\Debug\net6.0\Common.pdb
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\New folder\Library\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

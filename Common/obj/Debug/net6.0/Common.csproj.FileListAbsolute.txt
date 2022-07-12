@@ -1,0 +1,36 @@
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Common\bin\Debug\net6.0\Common.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Common\bin\Debug\net6.0\ref\Common.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\Common.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Common\bin\Debug\net6.0\Common.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Common\bin\Debug\net6.0\ref\Common.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\Common.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\Plamen\Desktop\New folder\Library\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\Plamen\Desktop\New folder\Library\Common\bin\Debug\net6.0\Common.dll
+C:\Users\Plamen\Desktop\New folder\Library\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\Plamen\Desktop\New folder\Library\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\New folder\Library\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\New folder\Library\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\New folder\Library\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\New folder\Library\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\New folder\Library\Common\obj\Debug\net6.0\Common.dll
+C:\Users\Plamen\Desktop\New folder\Library\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\Plamen\Desktop\New folder\Library\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\Plamen\Desktop\New folder\Library\Common\obj\Debug\net6.0\ref\Common.dll

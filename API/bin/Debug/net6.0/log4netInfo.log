@@ -1,0 +1,41 @@
+2022-03-30 14:42:47,212 [32] INFO Services.Services.BlobService - File is uploaded.
+2022-03-30 14:46:48,589 [29] ERROR Services.Services.BookReservationService - Exception is thrown Librarian cannot reject its own book reservation requests.
+2022-03-30 14:46:59,824 [22] INFO Services.Services.UserService - Log in was successful.
+2022-03-30 14:47:21,285 [22] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 14:47:26,624 [22] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 14:47:34,636 [24] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 14:47:37,127 [31] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 14:47:38,931 [31] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 14:47:41,512 [31] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 14:53:47,432 [22] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 14:56:06,381 [23] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 15:01:25,816 [4] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 15:05:00,025 [26] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 15:08:12,629 [22] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 15:17:43,856 [14] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 15:21:26,452 [14] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 15:22:05,511 [32] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 15:37:37,026 [29] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 15:42:41,078 [24] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 15:43:14,674 [20] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 15:47:00,356 [31] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 15:48:49,123 [38] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 15:49:20,011 [42] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 17:13:45,846 [7] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 20:23:59,667 [11] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 20:24:09,305 [11] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 20:24:30,952 [28] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 20:24:34,350 [28] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 20:24:40,595 [25] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 20:25:45,583 [15] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 20:25:49,553 [20] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 20:25:56,759 [15] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 20:26:11,305 [4] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 20:26:25,358 [7] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 20:32:42,216 [20] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 20:32:54,469 [26] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-30 20:37:52,364 [20] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-03-31 11:12:57,374 [27] ERROR Services.Services.BookReservationService - Book quantity is 0 or it is not available. Exception is thrown Book is not available.
+2022-07-12 22:42:37,280 [1] WARN API.Log4NetAdapter - The foreign key property 'BookReservationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-07-12 22:42:37,292 [1] WARN API.Log4NetAdapter - The foreign key property 'NotificationEntity.UserEntityId1' was created in shadow state because a conflicting property with the simple name 'UserEntityId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2022-07-12 22:42:37,449 [1] INFO API.Log4NetAdapter - Entity Framework Core 6.0.2 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.2' with options: None

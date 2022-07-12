@@ -1,0 +1,282 @@
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\API.exe
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\appsettings.json
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\API.deps.json
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\API.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\ref\API.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\API.pdb
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Common.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Repositories.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Services.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Common.pdb
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Services.pdb
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.pdb
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Plamen\source\repos\my-library-api\RilaLibrary\API\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\API.exe
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\appsettings.json
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\API.deps.json
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\API.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\ref\API.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\API.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Common.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Repositories.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Services.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Common.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Services.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.pdb
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\SendGrid.Extensions.DependencyInjection.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\appsettings.Dev.json
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\log4net.dll
+C:\Users\Plamen\source\repos\RilaLibrary\my-library-api\RilaLibrary\API\bin\Debug\net6.0\log4net.config
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\appsettings.Dev.json
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\API.exe
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\log4net.config
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\appsettings.json
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\API.deps.json
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\API.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\API.pdb
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\log4net.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\SendGrid.Extensions.DependencyInjection.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Common.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Repositories.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Services.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Common.pdb
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Services.pdb
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Plamen\Desktop\New folder\Library\API\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\API.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\API.pdb
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\New folder\Library\API\obj\Debug\net6.0\ref\API.dll
